@@ -1,0 +1,102 @@
+img {
+    border: solid;
+    border-color: black;
+}
+
+.header {
+    display: flex;
+    color: #382a2a;
+    background-color: #606060;
+    justify-content: space-between;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+
+.camel {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color: white;
+}
+
+.chameleon {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color: white;
+}
+
+.pigeon {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color: white
+}    
+
+.teddy-bear {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color: white;
+}
+
+.panda {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color: white;
+}
+
+
+.flying-cicada {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color: white;
+}
+
+
+
+
+
+body {
+    background-image: url("images/bg.png");
+    background-size: 100%;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: calbari;
+    font-size: medium;
+}
+
+.intro {
+    background-color:white;
+}
+
+a:link{
+    color: white;
+}
+
+a:visited{
+    color: white;
+}
